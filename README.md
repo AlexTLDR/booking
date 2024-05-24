@@ -8,3 +8,16 @@ This is a booking.com clone like backend
 - hotels -> CRUD API -> JSON
 - rooms -> CRUD API -> JSON
 - scripts -> database management -> seeding, migration 
+
+
+## Resources
+### gofiber
+Documentation
+```
+https://gofiber.io
+```
+
+Installing gofiber
+```
+go get github.com/gofiber/fiber/v2
+```
