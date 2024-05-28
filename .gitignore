@@ -7,10 +7,7 @@
 *.dylib
 
 # Our specific binary
-WebDev
-
-# Images directory during development
-images/
+bin
 
 # Test binary, built with `go test -c`
 *.test
