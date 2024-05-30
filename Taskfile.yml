@@ -12,6 +12,12 @@ tasks:
     silent: true
     deps: [build]
 
+  seed: 
+    cmds:
+      - go run scripts/seed.go
+    silent: true
+    deps: [build]
+
   test:
     cmds:
       - go test -v ./...
