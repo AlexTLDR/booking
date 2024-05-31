@@ -16,7 +16,7 @@ tasks:
     cmds:
       - go run scripts/seed.go
     silent: true
-    deps: [build]
+    #deps: [build]
 
   test:
     cmds:
